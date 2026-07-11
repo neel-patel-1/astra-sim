@@ -16,6 +16,7 @@
 [submodule "extern/network_backend/analytical"]
 	path = extern/network_backend/analytical
 	url = git@github.com:neel-patel-1/astra-network-analytical.git
+	branch = main
 [submodule "extern/memory_backend/analytical"]
 	path = extern/memory_backend/analytical
 	url = https://github.com/casys-kaist/astra-memory-analytical.git
